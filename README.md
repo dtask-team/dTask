@@ -96,7 +96,7 @@ This will start your Express + MongoDB server on http://localhost:4000.
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev 
 REACT_APP_API_URL=http://localhost:4000
 ```
 ### 🔵 3. Blockchain Setup
